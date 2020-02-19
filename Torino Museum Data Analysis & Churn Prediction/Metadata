@@ -1,4 +1,5 @@
-This project requires the visualization of annual museum subscriptions in the province of Torino in Italy and predicting the top customers to Churn.
+This project requires the visualization of annual museum subscriptions in the province of Torino in Italy and predicting the 
+top customers to Churn.
 
 Three files have been shared
 
@@ -9,5 +10,7 @@ data1: Data related to the renewal of subscription (abbonamento)
 More over, the text file named 'IT' refers to the the different comune of Torino along with their zip codes.
 
 For the geographical analysis, the data 'map.shp' shape file is used which provides a basis for plotting the data on the geographical maps.
+The map.shp file can be accessed via the following link: 
+https://deedu-my.sharepoint.com/:u:/g/personal/h8085_ioffice_site/EQvSbAIZtxtMiM1FYiOlBCgBRvV6wG3-2ADivF66Y8B5GQ?e=eeDmLd
 
 Note: All the data shared here has been taken from open sources. 

@@ -1,4 +1,6 @@
-This project requires the visualization of annual museum subscriptions in the province of Torino in Italy. Three files have been shared
+This project requires the visualization of annual museum subscriptions in the province of Torino in Italy and predicting the top customers to Churn.
+
+Three files have been shared
 
 an13: Data of each customer with specific client ID
 in13: Data of customer visits to museums

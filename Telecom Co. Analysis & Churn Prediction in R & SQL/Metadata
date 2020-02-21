@@ -1,1 +1,12 @@
+The project requires analysis and top 100 customer churn prediction for a Telecom company. Two datasets are given are as follows:
+
+1. training:    for model training 
+2. deployment:  for model testing and accuracy
+
+Models used are 
+1. Logistic Regressiong
+2. Decision Tree Analysis
+3. Random Forest
+
+Note: Data taken from open source
 

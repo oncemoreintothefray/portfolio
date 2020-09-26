@@ -3,4 +3,7 @@ This project works on the New York Rainfall Data from 1920-2019 as published by 
 This simple animated visualization gives users the option to filter Rainfall Data based on Decade wise level of Aggregation
 with the size of the marks representing the amount of rainfall.
 
+The visualization can be found at Tableau Public on:
+https://public.tableau.com/profile/rameez.riaz#!/vizhome/RainfallinNewYork/Dashboard12
+
 

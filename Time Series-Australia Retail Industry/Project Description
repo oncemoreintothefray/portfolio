@@ -1,0 +1,4 @@
+This project analyses Australian Clothing Retail Industry trends to find the top state for launching a new business.
+Tableau Table calculations have been used to analyze based on the measure of Sales/Capita income to find the spending trends 
+of habitants of each Australian state. 
+Time series analysis predicts the trend and gradient line is used to find the state with highest growth.

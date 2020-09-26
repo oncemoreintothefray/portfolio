@@ -1,0 +1,6 @@
+This project works on the New York Rainfall Data from 1920-2019 as published by La Guardia NY.
+
+This simple animated visualization gives users the option to filter Rainfall Data based on Decade wise level of Aggregation
+with the size of the marks representing the amount of rainfall.
+
+
